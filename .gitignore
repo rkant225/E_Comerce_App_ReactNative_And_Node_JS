@@ -1,0 +1,22 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/Frontend/node_modules
+/Backend/node_modules
+
+#Static files
+/Backend/Public
+
+# testing
+/coverage
+
+# production
+/frontend/build
+
+# misc
+/Frontend/.env
+/Backend/.env
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
