@@ -14,8 +14,8 @@
 /frontend/build
 
 # misc
-/Frontend/.env
-/Backend/.env
+# /Frontend/.env
+# /Backend/.env
 
 npm-debug.log*
 yarn-debug.log*
